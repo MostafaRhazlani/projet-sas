@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1728001043 source:c:\users\oghaz\onedrive\desktop\projet\projet-sas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+
